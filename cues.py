@@ -28,6 +28,8 @@ import models
 import settings
 
 
+# TODO(jrobbins): Remove this whole file after next deployment.
+
 # We only accept known cue name strings.
 ALLOWED_CUES = ['progress-checkmarks']
 

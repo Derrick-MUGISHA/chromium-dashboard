@@ -31,6 +31,8 @@ import models
 import settings
 
 
+# TODO(jrobbins): Remove this whole file after next deployment.
+
 class DismissCueHandlerTest(unittest.TestCase):
 
   def setUp(self):
