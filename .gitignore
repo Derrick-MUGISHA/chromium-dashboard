@@ -2,6 +2,7 @@
 *.pyc
 *.swp
 .sass-cache
+.vscode/*
 !.vscode/launch.json
 *oauth2.data
 .fcm_server_key
@@ -56,4 +57,3 @@ build/
 # Temporary
 packages/playwright/playwright.config.ts
 .devcontainer/devcontainer-lock.json
-config.bat
